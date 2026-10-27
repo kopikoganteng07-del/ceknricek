@@ -1,0 +1,14 @@
+{
+  "repository": "kopikoganteng07-del/ceknricek",
+  "dataset": "Domain Database",
+  "updated_at": "2026-11-28 21-05-13 WIB",
+  "source_last_modified": "Sat, 28 Nov 2026 14:00:06 GMT",
+  "source_etag": "\"6b0ade66-dc3b895\"",
+  "domain_count": 10292232,
+  "raw_size_bytes": 230930581,
+  "zip_size_bytes": 72428960,
+  "sha256_raw": "c76743a5ad5d11e4d67e972f610e8d4632b6824e1de4faff82fd8fdb402322d6",
+  "sha256_zip": "b716e2a3675fa0e948a6daead532bb15a1be1601f5a4b27f8779fc8fbd3669a2",
+  "added_count": 387,
+  "removed_count": 0
+}
